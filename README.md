@@ -73,7 +73,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ```
 
-##OUTPUT:
+## OUTPUT:
 
 <img width="708" height="150" alt="398595784-ba42ca2d-85a5-4795-b40d-63df37236a81" src="https://github.com/user-attachments/assets/ceb91dc9-bf66-4151-88c4-2d187cfe2217" />
 
